@@ -1,0 +1,20 @@
+# Виртуальное окружение Python
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Кэш и служебные файлы pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Настройки редактора
+.vscode/
+.idea/
+
+# Временные файлы
+*.log
+*.tmp
